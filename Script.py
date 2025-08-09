@@ -242,7 +242,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<pre><b>@KnMoviez {file_name} </b></pre>"""
+    CAPTION = """{filename}"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
